@@ -1,0 +1,9 @@
+WorkspaceSettings.xcsettings
+Archives
+Breakpoints_v2.xcbkptlist
+Builds
+build/
+xcuserdata
+*.xccheckout
+Carthage
+Cartfile.resolved
