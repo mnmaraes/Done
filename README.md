@@ -11,7 +11,7 @@ It follows the simple rules:
 
 # What Needs To Be Done
 
-1. Create A Bare-Bones Workspace
-    1. View, Model and ViewModel Projects
-    2. Basic Testing Setup
+1. [x] Create A Bare-Bones Workspace
+    1. [x] View, Model and ViewModel Projects
+    2. [x] Basic Testing Setup
 2. Create A Simple To Do App
