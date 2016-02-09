@@ -14,4 +14,4 @@ It follows the simple rules:
 1. [x] Create A Bare-Bones Workspace
     1. [x] View, Model and ViewModel Projects
     2. [x] Basic Testing Setup
-2. Create A Simple To Do App
+2. [ ] Create A Simple To Do App
