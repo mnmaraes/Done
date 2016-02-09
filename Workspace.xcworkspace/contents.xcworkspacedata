@@ -4,4 +4,13 @@
    <FileRef
       location = "group:README.md">
    </FileRef>
+   <FileRef
+      location = "group:Model/Model.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:View/View.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ViewModel/ViewModel.xcodeproj">
+   </FileRef>
 </Workspace>
